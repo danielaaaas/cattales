@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Beardsons Normal';
+  color: black;
+  background-color: powderblue;
+}
+
+h1 {
+  font: 'Beardsons Normal';
+}
+
+main {
+  padding: 1rem;
+}
+
